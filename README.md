@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Samuele! 👋😎
 
-<!--
-**samuele301197/samuele301197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cheerful and lively person 🌟, and I bring this energy into everything I do at work.  
+Currently, I'm a **Junior Front-End Developer** 💻, passionate about all things web. I'm also learning **Back-End development** 🛠️ to become a more complete developer and continuously improve my skills 📚.
 
-Here are some ideas to get you started:
+I love learning new things ✨ and challenging myself with exciting projects 🚀. Curiosity and enthusiasm are my keys 🔑 to growing professionally, and I try to bring this mindset to everything I do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌈 Core Skills
+- **Front-End:** HTML, CSS, JavaScript, React ⚛️  
+- **Back-End:** Node.js, Express (currently learning) 🌐  
+- **Other Tools:** Git, GitHub, Visual Studio Code 🛠️  
+
+## 📫 Contact
+- Email: [parisisamu32@gmail.com](mailto:parisisamu32@gmail.com) ✉️  
+- LinkedIn: [Samuele Parisi](https://www.linkedin.com/in/samuele-parisi-78b300382/) 🔗  
